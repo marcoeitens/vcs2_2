@@ -1,0 +1,8 @@
+Pizza:
+- Pizza deeg
+- Mozzerella
+- Parmazaanse Kaas
+- Rucola
+- Salami
+- Spaanse Pepers
+- Rode Ui
