@@ -6,3 +6,9 @@ Pizza:
 - Salami
 - Spaanse Pepers
 - Rode Ui
+
+Ontbijt
+- Eieren
+- Brood
+- Koffie
+- Kaiserbroodje
